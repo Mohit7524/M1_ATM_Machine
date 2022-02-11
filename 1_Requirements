@@ -1,0 +1,23 @@
+#Description
+Here i am going to make a ATM MACHINE with the help of C programming.
+
+#Requirements:
+   User Requirements
+     * You must have a account
+     * You must have ATM card
+     * You must have remember ATM Secret Pin Number
+     
+#High level Requirements
+     * Secret Pin
+     * ATM card
+     * Account type
+     * You can check balance
+     * Withdraw
+     * Deposit
+     * Final Transction slip
+     
+# Low level Requirements
+     * You Must be entered correctly within a certain number of attempts
+     * Can be open new account
+     
+     
