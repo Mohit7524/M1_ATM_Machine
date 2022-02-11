@@ -1,0 +1,37 @@
+##Architecture
+
+For this ATM Machine projects in Architecture parts i have puts all designing parts struvtural and behaviourl parts also.
+#Design 
+
+
+*Structural
+In structural parts i have add to 
+
+       * Enter Pin
+       * CheckBalance
+       * Deposit Details
+       * Withdraw 
+       * Recipts
+       
+  *Behavioural 
+  *When this project have done customer insert card and perform transction .ATM should authenticate your details.
+  *If your authenticate is correct then machine is able to perform your tranctions 
+  *When your Transction is correct
+       *you can 
+            * CheckBalance
+            *Deposit
+            *Withdraw
+            *ETC
+            
+**Flowchart
+     Related this project i have added a suppotted dacuments in atteched
+     
+     
+ **USE CASE DIAGRAM
+ 
+ In User case diagram three things are more important to perform all details
+    *Bank- Bank -where your account is there
+    *ATM MAchine- Which Atm machine useing our cards
+    *Customer-Customer,who is using his atm cards.
+    
+            
