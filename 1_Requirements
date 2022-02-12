@@ -1,8 +1,37 @@
 #Description
 Here i am going to make a ATM MACHINE with the help of C programming.
 
+**Defination
+
+    *Account
+       * Account may be various types which is a singe account in a bank is monitoring the transcation.
+       * Custmore create more accounts in a various bank.
+       
+     *ATM
+       * ATM is a part of station that allows to take to cash using our ATM card credentials.
+       * You Can withdraw,deposit,and send th money an someone.
+       
+     *Bank
+       * In India many types are Bank are avilable which is provide good services for our clints
+       Types Of Bank
+             *State Bank Of India
+             *Bank of Baroda
+             *Punjab National Bank
+             *Grameen Bank
+             *Kotak Bank
+             *ETC
+       
+
 #Requirements:
    User Requirements
+   
+   *Input
+        //ATM is specific part which is mandatorty to enter correct ATM pin.
+   *Processing:
+        //Storing the all paramenters 
+   *Output
+       //Which is included all parameters in a ATM MACHINE.
+        
      * You must have a account
      * You must have ATM card
      * You must have remember ATM Secret Pin Number
