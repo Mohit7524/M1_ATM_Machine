@@ -37,7 +37,7 @@
  This program does all the operation on the related to bank and  required to generate a the solution for a problem .
  
  
- <h6><b>WHEN:</b></h6>
+ <b><h6>WHEN:</h6></b>
  
  
  This application can be very helpful when a person is travelling somewhere,shopping any mall,purchase any things,we can say that money is very
@@ -46,6 +46,14 @@
  <h7><b>WHERE:</b></h7>
  
  <h8><b>HOW:</b></h8>
+ 
+ 
+ <b><l><h9>SWOT Analysis</h9></l></b>
+ 
+ 
+ 
+ ![Flowcharts of atm machine](https://user-images.githubusercontent.com/99462683/155294678-34455be8-4e26-4c76-9243-d77aa33c9ae6.png)
+
  
  
  
