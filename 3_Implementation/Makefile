@@ -18,4 +18,31 @@ TEST_SRC = src/atm.c\
 test/test_atm.c\
 unity/unity.c\
 
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+
+
+# Project Output name
+PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+
+# Project Output name
+PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+
+all: $(SRC) $(BUILD)
+	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT)
+
+
+# Call run the application
+run:$(PROJECT_NAME)
+	./$(PROJECT_OUTPUT)
+
+	runtest:$(PROJECT_NAME)
+	./$(TEST_OUTPUT)
+
+# Build and run the unit tests
+test:$(BUILD)
+	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+
+
+$(BUILD):
+	mkdir build
 
