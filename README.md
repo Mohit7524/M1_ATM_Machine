@@ -2,9 +2,4 @@
   </h1>
   <c>Learning C Programming
   </c>
-  
-  <h2>BADGES
-  </h2>
-  <c>https://app.codacy.com/gh/Mohit7524/M1_Projectgoal-Application/dashboard
-  </c>
-  
+ ![atm](https://user-images.githubusercontent.com/99462683/156293276-cba85954-24b7-4086-8515-da50164225e9.jpg)
