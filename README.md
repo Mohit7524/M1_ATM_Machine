@@ -13,5 +13,4 @@
   
   ![CODE GRADE](https://api.codiga.io/project/31156/status/svg)
   
-  ![Codacy](https://app.codacy.com/gh/Mohit7524/M1_ATM_Machine/dashboard)
- 
+  
