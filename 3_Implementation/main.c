@@ -192,3 +192,5 @@ void error() {;
     printf("+Invaild, plz enter correct option+\n");
 
 }
+
+// few Idea taken by sunfoundary.com
