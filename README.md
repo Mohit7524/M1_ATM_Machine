@@ -9,7 +9,7 @@
   <b>Codiga Code Quality and Grade</b>
   
   
-  ![CODE QUALITY SCORE](https://api.codiga.io/project/31156/score/svg)
+  ![CODE QUALITY SCORE](https://api.codiga.io/project/31529/score/svg)
   
   ![CODE GRADE](https://api.codiga.io/project/31156/status/svg)
   
